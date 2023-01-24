@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "sciiweb",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
